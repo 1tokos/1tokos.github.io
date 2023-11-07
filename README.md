@@ -1,11 +1,13 @@
-    <title>One Percent</title>
+
+    
+<title>One Percent</title>
     <style>
         body {
             text-align: center;
             padding: 100px;
         }
 
-        .button {
+ .button {
             display: inline-block;
             padding: 10px 20px;
             font-size: 18px;
@@ -17,7 +19,7 @@
             cursor: pointer;
         }
 
-        .button:hover {
+  .button:hover {
             background-color: #2980b9;
         }
     </style>
